@@ -1,0 +1,41 @@
+.container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  background-color: #2681f9;
+  border: 3px solid #32a7ce;
+  border-radius: 50px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  font-weight: bold;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group select {
+  width: 100%;
+  border-radius: 10px;
+  border: 2px solid #b5ff22;
+}
+
+.form-group button {
+  padding: 8px 15px;
+  background-color: #1a5bb0;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+#display-data {
+  margin-top: 20px;
+}
+input{
+  height: 15px;
+}
